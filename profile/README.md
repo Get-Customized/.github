@@ -21,7 +21,7 @@ At CodeCustomizr, we believe in empowering developers and designers with the too
 
 To get started with CodeCustomizr, follow these simple steps:
 
-1. **Sign Up**: Create an account on our [website](https://www.codecustomizr.com) 🌐.
+1. **Sign Up**: Create an account on our [website](https://codecustomizr.netlify.app) 🌐.
 2. **Explore Components**: Browse through our extensive library of UI components 🔍.
 3. **Customize**: Use our intuitive tools to customize components to your liking 🎛️.
 4. **Generate Code**: Instantly generate the code for your customized components 💻.
