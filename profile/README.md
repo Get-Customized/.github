@@ -44,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-For any questions or inquiries, please contact us at [support@codecustomizr.com](mailto:support@codecustomizr.com) 📧.
+For any questions or inquiries, please contact us at [support@codecustomizr.com](mailto:junaid042@outlook.com) 📧.
 
 ---
 
