@@ -33,10 +33,10 @@ We welcome contributions from the community! If you'd like to contribute to Code
 
 1. **Fork the Repository**: Click the "Fork" button at the top of this page.
 2. **Clone the Repository**: `git clone https://github.com/your-username/codecustomizr.git` 📂.
-3. **Create a Branch**: `git checkout -b feature/your-feature-name` 🌿.
-4. **Commit Your Changes**: `git commit -m 'Add some feature'` 💬.
-5. **Push to the Branch**: `git push origin feature/your-feature-name` 🚀.
-6. **Create a Pull Request**: Open a pull request from your branch to our `main` branch 🔀.
+3. **Create a Branch**: `git checkout -b feature/your-feature-name`.
+4. **Commit Your Changes**: `git commit -m 'Add some feature'`.
+5. **Push to the Branch**: `git push origin feature/your-feature-name`.
+6. **Create a Pull Request**: Open a pull request from your branch to our `main` branch.
 
 ## 📄 License
 
