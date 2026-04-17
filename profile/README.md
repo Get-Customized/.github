@@ -6,16 +6,16 @@ Welcome to **CodeCustomizr**! 🚀 Your ultimate platform for customizing and ge
 
 At CodeCustomizr, we believe in empowering developers and designers with the tools they need to create stunning, functional UI components. Our platform allows you to:
 
-- 🛠️ **Customize**: Tailor any coding UI component to fit your specific needs.
-- 🧩 **Generate Code**: Instantly get the code for your customized components, ready to be integrated into your projects.
-- ⚡ **Streamline Workflow**: Save time and effort by automating the code generation process.
+-  **Customize**: Tailor any coding UI component to fit your specific needs.
+-  **Generate Code**: Instantly get the code for your customized components, ready to be integrated into your projects.
+-  **Streamline Workflow**: Save time and effort by automating the code generation process.
 
 ## ✨ Features
 
-- 🎨 **User-Friendly Interface**: Intuitive and easy-to-use interface for seamless customization.
-- 📚 **Wide Range of Components**: Access a vast library of UI components to suit any project.
-- ⚙️ **Instant Code Generation**: Get your customized code in real-time, reducing development time.
-- 🔄 **Cross-Platform Compatibility**: Generate code compatible with various frameworks and libraries.
+-  **User-Friendly Interface**: Intuitive and easy-to-use interface for seamless customization.
+-  **Wide Range of Components**: Access a vast library of UI components to suit any project.
+-  **Instant Code Generation**: Get your customized code in real-time, reducing development time.
+-  **Cross-Platform Compatibility**: Generate code compatible with various frameworks and libraries.
 
 ## 🚀 Getting Started
 
