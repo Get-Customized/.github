@@ -1,4 +1,4 @@
-# 🎨 CodeCustomizr 🎨
+# CodeCustomizr
 
 Welcome to **CodeCustomizr**! 🚀 Your ultimate platform for customizing and generating code for UI components. Whether you're a developer looking to speed up your workflow or a designer wanting to bring your ideas to life, CodeCustomizr has you covered.
 
@@ -48,4 +48,4 @@ For any questions or inquiries, please contact us at [support@codecustomizr.com]
 
 ---
 
-Thank you for using CodeCustomizr! We can't wait to see what you create. 🎉
+Thank you for using CodeCustomizr! We can't wait to see what you create.
