@@ -22,16 +22,16 @@ At CodeCustomizr, we believe in empowering developers and designers with the too
 To get started with CodeCustomizr, follow these simple steps:
 
 1. **Sign Up**: Create an account on our [website](https://codecustomizr.netlify.app) 🌐.
-2. **Explore Components**: Browse through our extensive library of UI components 🔍.
-3. **Customize**: Use our intuitive tools to customize components to your liking 🎛️.
-4. **Generate Code**: Instantly generate the code for your customized components 💻.
-5. **Integrate**: Integrate the generated code into your projects and see your designs come to life ✨.
+2. **Explore Components**: Browse through our extensive library of UI components.
+3. **Customize**: Use our intuitive tools to customize components to your liking.
+4. **Generate Code**: Instantly generate the code for your customized components.
+5. **Integrate**: Integrate the generated code into your projects and see your designs come to life.
 
 ## 🤝 Contributing
 
 We welcome contributions from the community! If you'd like to contribute to CodeCustomizr, please follow these steps:
 
-1. **Fork the Repository**: Click the "Fork" button at the top of this page 🍴.
+1. **Fork the Repository**: Click the "Fork" button at the top of this page.
 2. **Clone the Repository**: `git clone https://github.com/your-username/codecustomizr.git` 📂.
 3. **Create a Branch**: `git checkout -b feature/your-feature-name` 🌿.
 4. **Commit Your Changes**: `git commit -m 'Add some feature'` 💬.
